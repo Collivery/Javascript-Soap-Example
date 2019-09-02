@@ -1,0 +1,22 @@
+{
+  "name": "javascript-soap-example",
+  "version": "1.0.0",
+  "description": "A quick and dirty javascript implementation of the SOAP API to get you up and running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collivery/Javascript-Soap-Example.git"
+  },
+  "author": "devs@collivery.co.za",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Collivery/Javascript-Soap-Example/issues"
+  },
+  "homepage": "https://github.com/Collivery/Javascript-Soap-Example#readme",
+  "dependencies": {
+    "easysoap": "^2.2.0"
+  }
+}
